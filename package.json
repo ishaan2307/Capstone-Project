@@ -1,0 +1,20 @@
+{
+  "name": "sit314",
+  "version": "1.0.0",
+  "description": "IoT Data testing ",
+  "main": "iotsensor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishaan Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/parser-readline": "^11.0.1",
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.3",
+    "mysql2": "^3.6.0",
+    "plotly": "^1.0.6",
+    "serialport": "^11.0.1"
+  }
+}
